@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Denis Andreev 👋
+---
 
+### About 
+
+I'm a passionate and experienced mobile engineer with great interest in developing and programming software.
 <!--
 **felarmir/felarmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
