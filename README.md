@@ -16,6 +16,15 @@ I'm a self-motivated individual with skills that balance technical knowledge, co
 - Telegram bots
 - CI/CD
 
+### ✍️ Writings 
+
+- [Personal blog](https://felarmir.com)
+
+### 📫 Contact me
+
+- DM [Telegram](https://t.me/felarmir)
+- More about my experience on [LinkedIn](https://www.linkedin.com/in/felarmir)
+- or simply email to felarmir@gmail.com
 
 <!--
 **felarmir/felarmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
