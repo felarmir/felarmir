@@ -8,13 +8,13 @@ I'm a self-motivated individual with skills that balance technical knowledge, co
 
 ### 🛠 Platforms, languages and tools
 
-iOS (Swift + Objective-C)
-Scripting (Bash, Python)
-Knowledge of Golang
-A little bit of Android (Kotlin, Java)
-Git enjoyer
-Telegram bots
-CI/CD
+- iOS (Swift + Objective-C)
+- Scripting (Bash, Python)
+- Knowledge of Golang
+- A little bit of Android (Kotlin, Java)
+- Git enjoyer
+- Telegram bots
+- CI/CD
 
 
 <!--
