@@ -1,9 +1,22 @@
 ### Hi there, I'm Denis Andreev 👋
----
+----
 
 ### About 
 
 I'm a passionate and experienced mobile engineer with great interest in developing and programming software.
+I'm a self-motivated individual with skills that balance technical knowledge, communication and collaboration, efficiency, and attention to detail in order to deliver productive results.
+
+### 🛠 Platforms, languages and tools
+
+iOS (Swift + Objective-C)
+Scripting (Bash, Python)
+Knowledge of Golang
+A little bit of Android (Kotlin, Java)
+Git enjoyer
+Telegram bots
+CI/CD
+
+
 <!--
 **felarmir/felarmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
