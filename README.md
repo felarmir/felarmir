@@ -1,42 +1,24 @@
-### Hi there, I'm Denis Andreev 👋
-----
+## Hi there! 👋
 
-### About 
+I'm Denis, an experienced iOS developer passionate about building seamless and user-friendly mobile applications. My expertise lies in Swift and Objective-C, and I have a strong background in creating high-performance apps that solve real-world problems.
 
-I'm a passionate and experienced mobile engineer with great interest in developing and programming software.
-I'm a self-motivated individual with skills that balance technical knowledge, communication and collaboration, efficiency, and attention to detail in order to deliver productive results.
+### 🛠️ Skills and Technologies:
+- **Languages:** Swift, Objective-C, Kotlin, Java
+- **Frameworks:** SwiftUI, UIKit, Core Data
+- **Tools:** Xcode, Git, Fastlane, CocoaPods, Android Studio
+- **Testing:** XCTest, Quick/Nimble, XCUITest
 
-### 🛠 Platforms, languages and tools
+### 🌱 What I'm Learning:
+- Exploring the latest in SwiftUI and Combine for reactive programming in iOS.
+- Continuously enhancing my knowledge of design patterns and best practices for scalable code.
 
-- iOS (Swift + Objective-C)
-- Scripting (Bash, Python)
-- Knowledge of Golang
-- A little bit of Android (Kotlin, Java)
-- Git enjoyer
-- Telegram bots
-- CI/CD
+### 🎯 Goals:
+- Collaborating with other developers to create innovative and impactful mobile apps.
 
 ### ✍️ Writings 
-
 - [Personal blog](https://felarmir.com)
 
-### 📫 Contact me
-
+### 📫 Let's Connect:
 - DM [Telegram](https://t.me/felarmir)
 - More about my experience on [LinkedIn](https://www.linkedin.com/in/felarmir)
-- or simply email to felarmir@gmail.com
-
-<!--
-**felarmir/felarmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- or simply email to [felarmir@gmail.com](felarmir@gmail.com)
